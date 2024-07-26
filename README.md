@@ -1,19 +1,32 @@
 # Research-Papers-Digested
 
-**SSAST: Self-Supervised Audio Spectrogram Transformer**</br>
-*AAAI Conference on Artificial Intelligence*, 2022</br>
-[original paper](https://arxiv.org/abs/2110.09784) | [slides](https://docs.google.com/presentation/d/1HE1jF5LWfoMSTZ11oefbxbTT6AC1OAmjcExq6QmQwfE/edit?usp=sharing)
+## Recommendation
 
-**FaceNet: A unified embedding for face recognition and clustering**</br>
-*IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, 2015</br>
-[original paper](https://ieeexplore.ieee.org/document/7298682) | [slides](https://docs.google.com/presentation/d/1f4Gz9q1Pza_MFuLxOCsV1-d5RDgnuZAIi-tirknmoe4/edit?usp=sharing)
+**Music Recommendation via Hypergraph Embedding** [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9709542) | [[slides]](https://docs.google.com/presentation/d/1Y6uXp-pUHo4cBoc-YHrRIcqQ2njo1hfMx-aRdTLdFW0/edit?usp=sharing)</br>
+La Gatta, V., Moscato, V., Pennone, M. et al. (2022). *IEEE transactions on neural networks and learning systems*.
 
-**A Deep Learning-based Precision and Automatic Kidney Segmentation System Using Efficient Feature Pyramid Networks in Computed Tomography Images**</br>
-*Computer Methods and Programs in Biomedicine*, 2022</br>
-[original paper](https://www.sciencedirect.com/science/article/pii/S016926072200236X?via%3Dihub) | [slides](https://docs.google.com/presentation/d/1SN05FRVukjusUGkWOzyPdlcZGeQ9A94QWF9oBnUwZn4/edit?usp=sharing)
+**Contextual and Sequential User Embeddings for Large-Scale Music Recommendation** [[paper]](https://dl.acm.org/doi/pdf/10.1145/3383313.3412248) | [[slides]](https://docs.google.com/presentation/d/1CQIg2fUD9R8lm7oswIOCio0fCQLr87KXys2X0H2pXbY/edit?usp=sharing)</br>
+Hansen, C., Hansen, C., Maystre, L. et al. (2020, September). *Proceedings of the 14th ACM Conference on Recommender Systems*.
+
+## ML-Audio
+
+**MERT: Acoustic Music Understanding Model with Large-Scale Self-supervised Training** [[paper]](https://arxiv.org/pdf/2306.00107) | [[slides]](https://docs.google.com/presentation/d/1redN7WMtGFh-m6iznx1ItJfQwKGBHLLmGdBj3W200_k/edit?usp=sharing)</br>
+Li, Y. et al. (2023). *arXiv preprint*.
+
+**MuLan: A Joint Embedding of Music Audio and Natural Language** [[paper]](https://arxiv.org/pdf/2208.12415) | [[slides]](https://docs.google.com/presentation/d/1mg5cO_05f5g-IsUgaeDMTFGx14t8YnlV7xquBUh7qw8/edit?usp=sharing)</br>
+Huang, Q. et al. (2022). *arXiv preprint*.
+
+**SSAST: Self-Supervised Audio Spectrogram Transformer** [[paper]](https://arxiv.org/pdf/2110.09784) | [[slides]](https://docs.google.com/presentation/d/1HE1jF5LWfoMSTZ11oefbxbTT6AC1OAmjcExq6QmQwfE/edit?usp=sharing)</br>
+Gong, Y., Lai, C. I., Chung, Y. A., & Glass, J. (2022, June). *AAAI Conference on Artificial Intelligence*.
+
+## ML-Image
+
+**A Deep Learning-based Precision and Automatic Kidney Segmentation System Using Efficient Feature Pyramid Networks in Computed Tomography Images** [[paper]](https://www.sciencedirect.com/science/article/pii/S016926072200236X?via%3Dihub) | [[slides]](https://docs.google.com/presentation/d/1SN05FRVukjusUGkWOzyPdlcZGeQ9A94QWF9oBnUwZn4/edit?usp=sharing)</br>
+Hsiao, C. H. et al. (2022). *Computer Methods and Programs in Biomedicine*.
+
+**FaceNet: A unified embedding for face recognition and clustering** [[paper]](https://ieeexplore.ieee.org/document/7298682) | [[slides]](https://docs.google.com/presentation/d/1f4Gz9q1Pza_MFuLxOCsV1-d5RDgnuZAIi-tirknmoe4/edit?usp=sharing)</br>
+Schroff, F., Kalenichenko, D., & Philbin, J. (2015). *IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*.
 
 ## Misc
 **How to Read a Paper** [[paper]](https://dl.acm.org/doi/pdf/10.1145/1273445.1273458)</br>
-*ACM SIGCOMM Computer Communication Review*</br>
-Keshav, S. (2007)
-
+Keshav, S. (2007). *ACM SIGCOMM Computer Communication Review*.
