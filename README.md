@@ -1,5 +1,13 @@
 # Research-Papers-Digested
 
+## Survey
+
+**Cold-start Item Recommendation** (2024, August) [slides]
+
+**Link Prediction** (2024, June) [[slides]](https://docs.google.com/presentation/d/1w36LrgNQAwyjFg3jdIsgFfueJIzUqZyxP-Brec1bLck/edit?usp=sharing)
+
+**Music Embeddings** (2024, April) [[slides]](https://docs.google.com/presentation/d/1F6w79XO9mifr_iJklyuoWchiAoOYl-rjZ-f4-nnk-QU/edit?usp=sharing)
+
 ## Recommendation
 
 **Music Recommendation via Hypergraph Embedding** [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9709542) | [[slides]](https://docs.google.com/presentation/d/1Y6uXp-pUHo4cBoc-YHrRIcqQ2njo1hfMx-aRdTLdFW0/edit?usp=sharing)</br>
