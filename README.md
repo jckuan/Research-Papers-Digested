@@ -2,13 +2,16 @@
 
 ## Survey
 
-**Cold-start Item Recommendation** (2024, August) [slides]
+**Cold-start Item Recommendation** (2024, August) [[slides]](https://docs.google.com/presentation/d/1I2vJVfNDZe9IiCpCtbtYcjtgaTdX6D2n9wPCYlPsAZI/edit?usp=sharing)
 
 **Link Prediction** (2024, June) [[slides]](https://docs.google.com/presentation/d/1w36LrgNQAwyjFg3jdIsgFfueJIzUqZyxP-Brec1bLck/edit?usp=sharing)
 
 **Music Embeddings** (2024, April) [[slides]](https://docs.google.com/presentation/d/1F6w79XO9mifr_iJklyuoWchiAoOYl-rjZ-f4-nnk-QU/edit?usp=sharing)
 
 ## Recommendation
+
+**Attentive Knowledge-aware Graph Convolutional Networks with Collaborative Guidance for Personalized Recommendation** [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9835464) | [[slides]](https://docs.google.com/presentation/d/1u5UuKzve98kDMMCzB0aW5BIrT7B476dc6Vt1FnY7pvg/edit?usp=sharing)</br>
+Chen, Y., Yang, Y., Wang, Y., Bai, J., Song, X., & King, I. (2022, May). *IEEE International Conference on Data Engineering*.
 
 **Music Recommendation via Hypergraph Embedding** [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9709542) | [[slides]](https://docs.google.com/presentation/d/1Y6uXp-pUHo4cBoc-YHrRIcqQ2njo1hfMx-aRdTLdFW0/edit?usp=sharing)</br>
 La Gatta, V., Moscato, V., Pennone, M. et al. (2022). *IEEE transactions on neural networks and learning systems*.
