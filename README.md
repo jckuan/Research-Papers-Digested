@@ -10,6 +10,9 @@
 
 ## Recommendation
 
+**Cold-Start Next-Item Recommendation by User-Item Matching and Auto-Encoders** [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10018469) | [[slides]](https://docs.google.com/presentation/d/1k1muIvzHHqPTipWWCVA1nCtDcMwnN8fFv_KlereQKHE/edit?usp=sharing)</br>
+Wu, H., Wong, C. W., Zhang, J., Yan, Y. et al. (2023). *IEEE Transactions on Services Computing*.
+
 **Attribute Graph Neural Networks for Strict Cold-Start Recommendation** [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9261110) | [[slides]](https://docs.google.com/presentation/d/1hOpvz7M9Ls5CxuYsk31ThEB56teHzzzHD55azhTAavY/edit?usp=drive_link)</br>
 Qian, T., Liang, Y., Li, Q., & Xiong, H. (2020). *IEEE Transactions on Knowledge and Data Engineering*.
 
