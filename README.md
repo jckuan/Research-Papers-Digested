@@ -10,6 +10,9 @@
 
 ## Recommendation
 
+**Attribute Graph Neural Networks for Strict Cold-Start Recommendation** [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9261110) | [[slides]](https://docs.google.com/presentation/d/1hOpvz7M9Ls5CxuYsk31ThEB56teHzzzHD55azhTAavY/edit?usp=drive_link)</br>
+Qian, T., Liang, Y., Li, Q., & Xiong, H. (2020). *IEEE Transactions on Knowledge and Data Engineering*.
+
 **Attentive Knowledge-aware Graph Convolutional Networks with Collaborative Guidance for Personalized Recommendation** [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9835464) | [[slides]](https://docs.google.com/presentation/d/1u5UuKzve98kDMMCzB0aW5BIrT7B476dc6Vt1FnY7pvg/edit?usp=sharing)</br>
 Chen, Y., Yang, Y., Wang, Y., Bai, J., Song, X., & King, I. (2022, May). *IEEE International Conference on Data Engineering*.
 
