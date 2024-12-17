@@ -28,7 +28,7 @@ Chen, Y., Yang, Y., Wang, Y., Bai, J., Song, X., & King, I. (2022, May). *IEEE I
 La Gatta, V., Moscato, V., Pennone, M. et al. (2022). *IEEE transactions on neural networks and learning systems*.
 
 **Contextual and Sequential User Embeddings for Large-Scale Music Recommendation** [[paper]](https://dl.acm.org/doi/pdf/10.1145/3383313.3412248) | [[slides]](https://docs.google.com/presentation/d/1CQIg2fUD9R8lm7oswIOCio0fCQLr87KXys2X0H2pXbY/edit?usp=sharing)</br>
-Hansen, C., Hansen, C., Maystre, L. et al. (2020, September). *Proceedings of the 14th ACM Conference on Recommender Systems*.
+Hansen, C., Hansen, C., Maystre, L. et al. (2020, September). *ACM Conference on Recommender Systems*.
 
 ## ML-Audio
 
