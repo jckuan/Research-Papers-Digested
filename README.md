@@ -2,6 +2,8 @@
 
 ## Survey
 
+**Multimodal Recommendation** (2024, December) [[slides]](https://docs.google.com/presentation/d/17XvsDIhqdO8tEFqEJKicrwNF3xNL5-Ahd6cZEwxeqvE/edit?usp=drive_link)
+
 **Cold-start Item Recommendation** (2024, August) [[slides]](https://docs.google.com/presentation/d/1I2vJVfNDZe9IiCpCtbtYcjtgaTdX6D2n9wPCYlPsAZI/edit?usp=sharing)
 
 **Link Prediction** (2024, June) [[slides]](https://docs.google.com/presentation/d/1w36LrgNQAwyjFg3jdIsgFfueJIzUqZyxP-Brec1bLck/edit?usp=sharing)
@@ -9,6 +11,9 @@
 **Music Embeddings** (2024, April) [[slides]](https://docs.google.com/presentation/d/1F6w79XO9mifr_iJklyuoWchiAoOYl-rjZ-f4-nnk-QU/edit?usp=sharing)
 
 ## Recommendation
+
+**A Multimodal Single-Branch Embedding Network for Recommendation in Cold-Start and Missing Modality Scenarios** [[paper]](https://dl.acm.org/doi/pdf/10.1145/3640457.3688138) | [[slides]](https://docs.google.com/presentation/d/1EwEyxUzAZjc_JnCpIlr6ym3ummP4XknI1tJNmfLmDs4/edit?usp=drive_link)</br>
+Ganhör, C., Moscati, M., Hausberger, A., Nawaz, S., & Schedl, M. (2024, October). *ACM Conference on Recommender Systems*.
 
 **Cold-Start Next-Item Recommendation by User-Item Matching and Auto-Encoders** [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10018469) | [[slides]](https://docs.google.com/presentation/d/1k1muIvzHHqPTipWWCVA1nCtDcMwnN8fFv_KlereQKHE/edit?usp=drive_link)</br>
 Wu, H., Wong, C. W., Zhang, J., Yan, Y. et al. (2023). *IEEE Transactions on Services Computing*.
@@ -34,7 +39,7 @@ Li, Y. et al. (2023). *arXiv preprint*.
 Huang, Q. et al. (2022). *arXiv preprint*.
 
 **SSAST: Self-Supervised Audio Spectrogram Transformer** [[paper]](https://arxiv.org/pdf/2110.09784) | [[slides]](https://docs.google.com/presentation/d/1HE1jF5LWfoMSTZ11oefbxbTT6AC1OAmjcExq6QmQwfE/edit?usp=sharing)</br>
-Gong, Y., Lai, C. I., Chung, Y. A., & Glass, J. (2022, June). *AAAI Conference on Artificial Intelligence*.
+Gong, Y., Lai, C. I., Chung, Y. A., & Glass, J. (2022). *AAAI Conference on Artificial Intelligence*.
 
 ## ML-Image
 
